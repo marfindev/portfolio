@@ -5,7 +5,7 @@
   My Portfolio Website
 </h1>
 <p align="center">
-  The first iteration of <a href="https://github.com/marfindev/marfin.github.io" target="_blank">marfin.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The first iteration of <a href="https://marfindev.github.io/portfolio/" target="_blank">marfin.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 ### TL;DR
