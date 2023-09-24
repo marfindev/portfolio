@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: 'https://github.com/marfindev/portfolio',
+  pathPrefix: '/portfolio',
   siteMetadata: {
     title: 'Marfin',
     description: '',
