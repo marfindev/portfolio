@@ -1,11 +1,11 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/v4Clone/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/marfindev/marfin.github.io/blob/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   My Portfolio Website
 </h1>
 <p align="center">
-  The second iteration of <a href="https://github.com/marfindev/marfin.github.io" target="_blank">marfin.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The first iteration of <a href="https://github.com/marfindev/marfin.github.io" target="_blank">marfin.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 ### TL;DR
